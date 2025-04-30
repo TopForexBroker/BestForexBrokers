@@ -24,6 +24,10 @@ Choosing the right broker is essential to ensuring a smooth trading experience. 
 
 Exness is highly regarded for its transparency and customer support. It also offers a wide range of educational resources, making it an excellent choice for beginners in Pakistan.
 
+🔗 [**Go to Exness Broker**](https://one.exnesstrack.org/a/english23)
+
+✅ [**Open Account, Link here**](https://one.exnesstrack.org/boarding/sign-up/a/english23)
+
 ---
 
 ## 2. IC Markets
@@ -55,6 +59,10 @@ IC Markets is a great choice for those who want a professional environment with 
 - **Deposit/Withdrawal Methods**: Bank transfers, Skrill, Neteller.
 
 Pepperstone’s focus on providing low-cost, high-speed execution makes it a favorite among scalpers and day traders.
+
+🔗 [**Go to Pepperstone Broker**](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954)
+
+✅ [**Open Account, Link here**](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954)
 
 ---
 
@@ -88,6 +96,10 @@ FXTM is a good choice for traders who want flexibility with account types and a 
 
 FP Markets is best known for its strong customer support and variety of trading options, perfect for traders in Pakistan looking for flexibility.
 
+🔗 [**Go to Fpmarkets Broker**](https://www.fpmarkets.com/?redir=stv&fpm-affiliate-utm-source=IB&fpm-affiliate-agt=56244)
+
+✅ [**Open Account, Link here**](https://portal.fpmarkets.com/int-EN/register?redir=stv&fpm-affiliate-utm-source=IB&fpm-affiliate-agt=56244)
+
 ---
 
 ## 6. HotForex (HFM)
@@ -119,6 +131,10 @@ HotForex is a great option for Pakistani traders, especially for those who want 
 - **Deposit/Withdrawal Methods**: Bank wire, Skrill, Neteller.
 
 XM offers a great overall trading experience with its combination of low-cost trading and strong educational resources, making it ideal for traders in Pakistan.
+
+🔗 [**Go to XM Broker**](https://clicks.pipaffiliates.com/c?c=589901&l=en&p=0)
+
+✅ [**Open Account, Link here**](https://clicks.pipaffiliates.com/c?c=589901&l=en&p=1)
 
 ---
 
@@ -167,6 +183,8 @@ Eightcap is particularly good for traders looking for an Australian-regulated br
 - **Deposit/Withdrawal Methods**: Bank wire, PayPal, Skrill, Neteller.
 
 FXPro’s well-rounded platform and regulatory oversight make it a solid choice for traders in Pakistan.
+
+Readmore here [Best Forex Brokers Github](https://github.com/BestForexBrokersintheworld/Top-Forex-Brokers)
 
 ---
 
