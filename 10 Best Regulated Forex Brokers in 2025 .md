@@ -99,6 +99,10 @@ Pepperstone is overseen by ASIC, FCA, and CMA (Dubai). Known for **cTrader** acc
 📌 **Summary**  
 Pepperstone excels for **algorithmic** and **professional** traders seeking advanced platforms and rebates.  
 
+🔗 [**Go to Pepperstone Broker**](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954)
+
+✅ [**Open Account, Link here**](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954)
+
 ---
 
 ## AvaTrade
@@ -119,6 +123,10 @@ AvaTrade holds licenses from the BVI FSC, ASIC, FSCA, FSA (Japan), and more. It 
 
 📌 **Summary**  
 AvaTrade’s **multi-asset** offering and **user-friendly app** suit traders wanting diversity beyond FX.  
+
+🔗 [**Go to Avatrade Broker**](https://www.avatrade.com?versionId=10301&tag=194438)
+
+✅ [**Open Account, Link here**](https://www.avatrade.com/trading-account2?versionId=10301&tag=194438)
 
 ---
 
@@ -141,6 +149,10 @@ FP Markets is regulated by ASIC and CySEC. It provides **direct ECN** access, **
 📌 **Summary**  
 With **ECN spreads** and professional **Iress** support, FP Markets appeals to **serious** and institutional-style traders.  
 
+🔗 [**Go to Fpmarkets Broker**](https://www.fpmarkets.com/?redir=stv&fpm-affiliate-utm-source=IB&fpm-affiliate-agt=56244)
+
+✅ [**Open Account, Link here**](https://portal.fpmarkets.com/int-EN/register?redir=stv&fpm-affiliate-utm-source=IB&fpm-affiliate-agt=56244)
+
 ---
 
 ## XTB
@@ -161,6 +173,11 @@ XTB is licensed by the FCA, KNF (Poland), CySEC, and IFSC (Belize). It offers **
 
 📌 **Summary**  
 XTB’s **xStation 5** and **built-in learning** tools are perfect for traders prioritising intuitive UX and education.  
+
+
+🔗 [**Go to XTB Broker**](https://link-pso.xtb.com/pso/zrUCY)
+
+✅ [**Open Account, Link here**](https://link-pso.xtb.com/pso/CgswI)
 
 ---
 
@@ -183,6 +200,10 @@ FBS is regulated by IFSC (Belize) and CySEC. It features **cent accounts**, **Is
 📌 **Summary**  
 FBS is tailored for **micro-traders** and those chasing **promotional bonuses**, with ultra-low entry barriers.  
 
+🔗 [**Go to FBS Broker**](https://fbs.partners?ibl=587836&ibp=21398815)
+
+✅ [**Open Account, Link here**](https://fbs.partners?ibl=587836&ibp=21398815)
+
 ---
 
 ## AMarkets
@@ -204,6 +225,11 @@ AMarkets operates under IFSC (Belize) regulation. They offer **raw spreads**, **
 📌 **Summary**  
 AMarkets’ **raw spreads** and **guaranteed stops** help risk-conscious traders manage volatility precisely.  
 
+
+🔗 [**Go to Amakets Broker**](https://amarketstrading.co/?g=WNRAN9)
+
+✅ [**Open Account, Link here**](https://amarketstrading.co/sign-up/real-en/?g=WNRAN9)
+
 ---
 
 ## OctaFX
@@ -224,6 +250,12 @@ OctaFX is regulated by CySEC and FSA (Saint Vincent & Grenadines). They provide 
 
 📌 **Summary**  
 OctaFX blends **copy-trading** convenience with **raw-spread** pricing, ideal for both passive and active traders.  
+
+
+🔗 [**Go to OctaFx Broker**](https://my.octafx.com/open-account/?refid=ib35647800)
+
+✅ [**Open Account, Link here**](https://my.octafx.com/open-account/?refid=ib35647800)
+
 
 ---
 
