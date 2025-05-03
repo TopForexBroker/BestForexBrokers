@@ -1,12 +1,3 @@
----
-title: "Best Zero Spread Forex Brokers of 2025"
-description: "Top 10 forex brokers offering zero spread accounts in 2025. Compare features, regulations, platforms, and more."
-date: 2025-05-04
-tags: [forex, zero spread, trading, brokers, 2025]
-author: your-name
-layout: post
----
-
 # 📉 Best Zero Spread Forex Brokers of 2025
 
 <details>
