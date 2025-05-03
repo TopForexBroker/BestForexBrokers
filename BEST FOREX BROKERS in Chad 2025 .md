@@ -132,6 +132,3 @@ Forex trading is fully legal in Chad and growing as internet and mobile money se
 8. **Inactivity fees?** JustMarkets after 150 days, XM after 90 days :contentReference[oaicite:19]{index=19}.  
 9. **Max leverage?** Up to 1:3000 (JustMarkets, FBS, AMarkets) :contentReference[oaicite:20]{index=20}.  
 10. **Copy trading?** JustMarkets, Pepperstone, AvaTrade, FP Markets, OctaFX.  
-
-## Next Steps & Strong CTA  
-Don’t miss 2025’s forex opportunities in Chad—choose your broker, click the link, complete KYC, fund in CFA, and start trading now!  
