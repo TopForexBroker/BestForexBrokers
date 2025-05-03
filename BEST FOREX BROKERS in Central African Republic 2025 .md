@@ -2,6 +2,24 @@
 
 In 2025, traders in the Central African Republic (CAR) have unprecedented access to global forex markets via top‑tier international brokers. With mobile and internet penetration rising, local traders can fund accounts in CFA franc and trade major, minor, and exotic currency pairs with competitive costs, robust platforms, and regulatory safeguards :contentReference[oaicite:0]{index=0}. This guide—crafted for **beginners** and **veteran traders**—deeply examines ten leading brokers, compares their fees, leverage, platforms, and unique features, and provides actionable CTAs to **open a live forex account** today.
 
+## Comparison Table
+
+| Broker | Min Deposit | Max Leverage | Platforms | Regulation | Spreads From |
+|---|---|---|---|---|---|
+| [Exness](https://one.exnesstrack.org/a/english23) | $10 | 1:2000 | MT4, MT5, Exness Terminal | FCA, CySEC, FSCA | 0.3 pips |
+| [JustMarkets](https://one.justmarkets.link/a/79iqw0j6nj) | $10 | 1:3000 | MT4, MT5, Web, Mobile | CySEC, FSA, FSCA, FSC | 0 pips |
+| [XM](https://clicks.pipaffiliates.com/c?c=589901&l=en&p=0) | $5 | 1:500 | MT4, MT5 | ASIC, CySEC, FSCA | 0.6 pips |
+| [Pepperstone](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954) | $0 | 1:500 | MT4, MT5, cTrader, TradingView | ASIC, FCA, CySEC | 0 pips |
+| [AvaTrade](https://www.avatrade.com?versionId=10301&tag=194438) | $100 | 1:400 | MT4, MT5, AvaOptions | ASIC, CBI, FSCA | 0.9 pips |
+| [FP Markets](https://www.fpmarkets.com/?redir=stv&fpm-affiliate-utm-source=IB&fpm-affiliate-agt=56244) | $100 AUD | 1:500 | MT4, MT5, cTrader | ASIC, CySEC, FSCA | 0 pips |
+| [XTB](https://link-pso.xtb.com/pso/zrUCY) | $0 | 1:500 | xStation 5, MT4 | FCA, CySEC, KNF | 1.3 pips |
+| [FBS](https://fbs.partners?ibl=587836&ibp=21398815) | $5 | 1:3000 | MT4, MT5, FBS App | FSC, CySEC, ASIC | 0.5 pips |
+| [AMarkets](https://amarketstrading.co/?g=WNRAN9) | $100 | 1:3000 | MT4, MT5, Web | MISA, FSC, FSA | 0 pips |
+| [OctaFX](https://my.octafx.com/open-account/?refid=ib35647800) | $0 | 1:500 | MT4, MT5, Web | FSA (SVG), CySEC | 0.2 pips |
+| [VantageFX](https://www.vantagemarkets.com/en/trading/fees/spreads/) | $50 | 1:500 | MT4, MT5, Web | ASIC, CIMA, VFSC | 0.0 pips |
+
+---
+
 <details>  
 <summary>Table of Contents</summary>
 
@@ -263,24 +281,6 @@ VantageFX, regulated by ASIC, CIMA, VFSC, offers spreads from **0.0 pips** on 
 
 **Summary & CTA**  
 VantageFX suits both beginners (cent/STP) and pros (Raw ECN). **Get started**: [VantageFX](https://www.vantagemarkets.com/en/trading/fees/spreads/).  
-
----
-
-## Comparison Table  
-
-| Broker | Min Deposit | Max Leverage | Platforms | Regulation | Spreads From | Affiliate CTA |
-|---|---|---|---|---|---|---|
-| [Exness](https://one.exnesstrack.org/a/english23) | $10 | 1:2000 | MT4, MT5, Exness Terminal | FCA, CySEC, FSCA | 0.3 pips | Open Exness |
-| [JustMarkets](https://one.justmarkets.link/a/79iqw0j6nj) | $10 | 1:3000 | MT4, MT5, Web, Mobile | CySEC, FSA, FSCA, FSC | 0 pips | Start JustMarkets |
-| [XM](https://clicks.pipaffiliates.com/c?c=589901&l=en&p=0) | $5 | 1:500 | MT4, MT5 | ASIC, CySEC, FSCA | 0.6 pips | Open XM |
-| [Pepperstone](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954) | $0 | 1:500 | MT4, MT5, cTrader, TradingView | ASIC, FCA, CySEC | 0 pips | Trade Pepperstone |
-| [AvaTrade](https://www.avatrade.com?versionId=10301&tag=194438) | $100 | 1:400 | MT4, MT5, AvaOptions | ASIC, CBI, FSCA | 0.9 pips | Register AvaTrade |
-| [FP Markets](https://www.fpmarkets.com/?redir=stv&fpm-affiliate-utm-source=IB&fpm-affiliate-agt=56244) | $100 AUD | 1:500 | MT4, MT5, cTrader | ASIC, CySEC, FSCA | 0 pips | Join FP Markets |
-| [XTB](https://link-pso.xtb.com/pso/zrUCY) | $0 | 1:500 | xStation 5, MT4 | FCA, CySEC, KNF | 1.3 pips | Get XTB |
-| [FBS](https://fbs.partners?ibl=587836&ibp=21398815) | $5 | 1:3000 | MT4, MT5, FBS App | FSC, CySEC, ASIC | 0.5 pips | Open FBS |
-| [AMarkets](https://amarketstrading.co/?g=WNRAN9) | $100 | 1:3000 | MT4, MT5, Web | MISA, FSC, FSA | 0 pips | Trade AMarkets |
-| [OctaFX](https://my.octafx.com/open-account/?refid=ib35647800) | $0 | 1:500 | MT4, MT5, Web | FSA (SVG), CySEC | 0.2 pips | Open OctaFX |
-| [VantageFX](https://www.vantagemarkets.com/en/trading/fees/spreads/) | $50 | 1:500 | MT4, MT5, Web | ASIC, CIMA, VFSC | 0.0 pips | Start VantageFX |
 
 ---
 
