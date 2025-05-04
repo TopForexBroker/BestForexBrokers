@@ -28,7 +28,7 @@ We’ll also cover what to do if you forget your password, how to access your tr
 
 Pepperstone offers several platforms and interfaces for traders. Depending on your needs, you might be logging into:
 
-- ✅ [Client Area (Dashboard)](https://secure.pepperstone.com/login)
+- ✅ [Client Area (Dashboard)](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954)
 - ✅ MetaTrader 4 (MT4) or MetaTrader 5 (MT5)
 - ✅ cTrader Web or Desktop
 - ✅ Mobile Apps (MT4/MT5/cTrader)
@@ -48,7 +48,7 @@ The Secure Client Area is where you:
 
 ### 🔐 Steps to Login:
 
-1. Visit: [https://secure.pepperstone.com/login](https://secure.pepperstone.com/login)  
+1. Visit: [https://secure.pepperstone.com/login](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954)  
 2. Enter your **registered email** and **password**  
 3. Click **Login**  
 4. Use 2FA code (if enabled)
@@ -81,7 +81,7 @@ Pepperstone’s cTrader platform offers modern UI and fast execution. It uses a 
 
 ### 🔑 Steps:
 
-1. Visit: [https://ct.pepperstone.com](https://ct.pepperstone.com)  
+1. Visit: [https://ct.pepperstone.com](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954) 
 2. Enter your **cTrader ID (email)** and **password**  
 3. Click **Login**
 
@@ -97,7 +97,7 @@ If you're locked out or forgot credentials:
 
 ### 🔁 Reset Password:
 
-- Go to: [Password reset page](https://secure.pepperstone.com/forgot-password)  
+- Go to: [Password reset page](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954)
 - Enter your email and follow instructions
 
 📨 Check spam/junk folder if you don’t receive the reset link.
@@ -147,7 +147,7 @@ Yes. You can open and manage multiple trading accounts under one client email.
 Logging in to Pepperstone is simple when you know which credentials to use for which platform. Always bookmark the **official login pages** and avoid phishing links.
 
 📌 Start by accessing your Client Area here:  
-👉 [https://secure.pepperstone.com/login](https://secure.pepperstone.com/login)
+👉 [https://secure.pepperstone.com/login](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954)
 
 And if you haven’t signed up yet, explore Pepperstone’s regulated, fast-execution trading environment:
 
